@@ -1,7 +1,7 @@
 # GITIDEATest
 在IDEA上测试Git使用
 
-#Git 之 GitHub使用说明
+#Git 之 GitHub使用说明文档
 1、Idea -> VCS -> Get from Version Control -> GitHub 登录 -> 选择仓库 -> Clone<br />
 2、Idea -> File -> Idea -> File -> New -> Project from Version Control -> Get from Version Control -> GitHub 登录 -> 选择仓库 -> Clone<br />
 3、git常用操作<br />
